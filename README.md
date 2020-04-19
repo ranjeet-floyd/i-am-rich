@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-[Image](/flutter-app-learning.png)
+![Flow Diagram](/flutter-app-learning.png)
 
 ## Getting Started
 
